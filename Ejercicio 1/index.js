@@ -1,4 +1,3 @@
-console.log('hola');
 //base 23*16 cm
 //altura 13 cm
 
@@ -20,4 +19,4 @@ const volumen2 = base * altura * ancho;
 console.log('volumen2', volumen2 + ' cm3')
 
 const area2 = base * altura + 2 * base * ancho;
-console.log('area2', area2 + 'cm2')
+console.log('area2', area2 + ' cm2')
